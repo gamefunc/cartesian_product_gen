@@ -1,6 +1,6 @@
 # cartesian_product_gen  
 cpp20 co_yield 笛卡尔 generator 测试用示例代码；    
-详细查看: Create cartesian_product_gen_example.cpp   
+详细查看: cartesian_product_gen_example.cpp   
 类似python3: itertools.product；   
 
 gamefunc   
